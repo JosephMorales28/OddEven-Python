@@ -1,5 +1,5 @@
 x = int(input())
-print("with less than equal sign")
+print("using less than equal sign")
 while x <= 10:
     if x%2 == 0:
         print(x,"is even")
@@ -32,4 +32,9 @@ explanation
 9 8+1=9
 10 9+1=10
 because number 10 joined
+If you change the while x<10 the output will be 1-9 10 is break
+"""
+"""
+If input 2 or any number from 2-10 output start
+From 2-10
 """
